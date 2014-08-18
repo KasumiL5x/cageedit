@@ -1,8 +1,8 @@
 ---------------------
 --- Copying Files ---
 ---------------------
-Copy [push_deformer.py] to a path defined in MAYA_PLUG_IN_PATH.  For example, the [plug-ins] directory in Maya's preferences.
-Copy [apply_push_deformer.py] and [push_deformer.py] to a path defined in PYTHONPATH.  For example, the [scripts] directory in Maya's preferences.
+Copy [push_deformer.py] to a path defined in MAYA_PLUG_IN_PATH.  For example, the [plug-ins] directory in Maya's home directory.
+Copy [apply_push_deformer.py] and [push_deformer.py] to a path defined in PYTHONPATH.  For example, the [scripts] directory in Maya's home directory.
 
 -------------
 --- Usage ---
